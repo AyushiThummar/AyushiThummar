@@ -145,7 +145,7 @@
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="40"/>
     </a>
     <img width="8"/>
-    <a href="mailto:ayushi.thummar@gmail.com" target="_blank">
+    <a href="mailto:ayushithummar148@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
     </a>
   </div>
