@@ -12,13 +12,13 @@
 
 <img align="right" src="https://raw.githubusercontent.com/AyushiThummar/AyushiThummar/main/assets/Girl_working.gif" width="380" alt="Coding" />
 
-👩🏻‍🎓 I am a passionate computer engineering student, curious about **full-stack development** and **AI**.  
+👩🏻‍💻 I am a computer engineering student passionate about **.NET development** and building scalable, robust web applications.  
 
-🌱 Currently exploring **web technologies**, backend development, and AI concepts through **projects** and practical learning.
+🌱 Currently exploring **C#**, **ASP.NET Core**, **Entity Framework**, and **full-stack web development** through academic and personal projects.  
 
-🧠 I prefer understanding **how and why things work** and applying concepts through <br/>**real projects** rather than rote solutions.
+🧠 I enjoy understanding **how applications work end-to-end**, from backend architecture to database design, and applying these concepts to **real-world projects**.  
 
-📚 Actively working on **academic and personal projects** to gain real-world experience and strengthen my portfolio.
+📚 Continuously improving my skills in **software development, cloud integration, and modern web technologies**.  
 
 📖 I am also an avid <b>reader of novels, poetry, and storytelling</b>, which fuels my creativity and love for learning.  
 
