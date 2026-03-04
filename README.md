@@ -109,8 +109,8 @@
   <h3>📚 Current Learning Focus</h3>
   <ul>
     <li>Full-stack web development fundamentals</li>
+    <li>.NET framework</li>
     <li>JavaScript & React</li>
-    <li>Backend basics (.NET / PHP)</li>
     <li>Database design & SQL</li>
     <li>Logical thinking & problem-solving</li>
     <li>Exploring AI fundamentals</li>
