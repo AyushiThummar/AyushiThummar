@@ -81,6 +81,28 @@
   <div>
     <ul>
       <li>
+        🛡️ <b>Smart Error Detective System</b> (Personal Project)<br>
+        Developed an intelligent error monitoring and analysis platform that logs
+        application exceptions, classifies errors, predicts severity, identifies
+        duplicate issues, and provides AI-inspired fix suggestions to streamline the
+        debugging process.<br>
+        Built an analytics dashboard featuring real-time statistics, advanced search &
+        filtering, PDF export, dark/light mode, responsive design, and interactive
+        visualizations for efficient application health monitoring.<br>
+        <b>Technologies:</b> ASP.NET Core MVC · C# · Entity Framework Core · SQL Server · Bootstrap · Chart.js
+      </li>
+      <br>
+      <li>
+        📚 <b>Bookshelf Management System</b> (6ᵗʰ Semester)<br>
+        Built a web-based digital library application for managing physical books and
+        eBooks with an intuitive and responsive user interface.<br>
+        Enabled users to upload, organize, search, download, and read eBooks, along
+        with managing book categories and records through complete CRUD operations
+        backed by a SQL Server database.<br>
+        <b>Technologies:</b> ASP.NET Core MVC · C# · Entity Framework Core · SQL Server · Bootstrap
+      </li>
+      <br>
+      <li>
         📱 <b>Krushi-Dava App</b> (5ᵗʰ Semester)<br>
         Developed a mobile application to help farmers check pesticide availability
         without the need to visit physical stores.<br>
@@ -108,12 +130,11 @@
 <div>
   <h3>📚 Current Learning Focus</h3>
   <ul>
-    <li>Full-stack web development fundamentals</li>
-    <li>.NET framework</li>
-    <li>JavaScript & React</li>
-    <li>Database design & SQL</li>
-    <li>Logical thinking & problem-solving</li>
-    <li>Exploring AI fundamentals</li>
+    <li>ASP.NET Core MVC</li>
+    <li>.NET Framework & C# Development</li>
+    <li>JavaScript & JQuery</li>
+    <li>Database Design & SQL Server</li>
+    <li>Logical Thinking & Problem-Solving</li>
   </ul>
 </div>
 
